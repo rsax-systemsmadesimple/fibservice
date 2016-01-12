@@ -19,7 +19,7 @@ You will need Java 8 and maven installed to build and run this project. Examples
 
 ### To Run
 
-	$ java -jar target/fibservice-0.0.1-SNAPSHOT.jar service config.yml
+	$ java -jar target/fibservice-0.0.1-SNAPSHOT.jar server config.yml
 	
 You will now be able to access:
 
